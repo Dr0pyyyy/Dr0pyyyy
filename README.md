@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dr0pyyyy
-- 👀 I’m interested in technology.
-- 🌱 I’m currently learning C#, GitHub, HTML&CSS.
+- 👀 I’m interested in programming, self-learning, games, UX Design and graphic design.
+- 🌱 I’m currently learning C#, GitHub, HTML&CSS, Javascript and React.
 - 📫 How to reach me Twitter: @koutny_adam
 
 <!---
