@@ -9,7 +9,12 @@
 ## 📚 CURRENTLY LEARNING 📚
 [![My Skills](https://skillicons.dev/icons?i=sass,js)](https://skillicons.dev)
 ## 💻LANGUAGES AND TECHNOLOGIES 💻
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css,sass,js,py,arduino&perline=1)](https://skillicons.dev)
+<div>
+
+  [![My Skills](https://skillicons.dev/icons?i=cs,html,css,sass,js,py,arduino&perline=1)](https://skillicons.dev) 
+  
+</div>
+
 ## 🛠 TOOLS 🛠
 [![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,figma,ps)](https://skillicons.dev)
 ### ❗ WHERE YOU CAN REACH ME ❗
