@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Dr0pyyyy
-- 👀 I’m interested in programming, self-learning, games, UX Design and graphic design.
-- 🌱 I’m currently learning C#, GitHub, HTML&CSS, Javascript and React.
-- 📫 How to reach me Twitter: @koutny_adam
-
-<!---
-Dr0pyyyy/Dr0pyyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# WELCOME TO MY PROFILE
+![giphy](https://user-images.githubusercontent.com/103818716/228606700-d6719272-57ff-4387-89c6-9ebbd9bf44d9.gif)
+## 👨‍💻 ABOUT ME 👨‍💻
+- I'm a 18 years old self-taught programmer from Czech Republic
+- My main language is C#
+- I'm currently learning Javascript
+- Also I'm trying to use Github more as my portfolio
+- My dream is to become full-stack developer
+## 🛠 LANGUAGES AND TOOLS 🛠
+tady budou technologie
+### WHERE YOU CAN REACH ME
