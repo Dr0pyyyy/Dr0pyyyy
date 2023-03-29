@@ -18,4 +18,6 @@
 ## 🛠 TOOLS 🛠
 [![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,figma,ps)](https://skillicons.dev)
 ### ❗ WHERE YOU CAN REACH ME ❗
-[![My Skills](https://skillicons.dev/icons?i=discord,instagram,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord)](Dr0pyyy#9930)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/adam_koutnyy/)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/koutny_adam)
