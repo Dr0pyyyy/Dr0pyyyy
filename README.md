@@ -11,7 +11,7 @@
 ## 💻LANGUAGES AND TECHNOLOGIES 💻
 <div>
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,html,css,sass,js,py,arduino&perline=1)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=cs,html,css,sass,js,py,arduino)](https://skillicons.dev) 
   
 </div>
 
