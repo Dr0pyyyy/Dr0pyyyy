@@ -7,7 +7,7 @@
 - Also I'm trying to use Github more as my portfolio
 - My dream is to become full-stack developer
 ## 📚 CURRENTLY LEARNING 📚
-[![My Skills](https://skillicons.dev/icons?i=sass,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 ## 💻LANGUAGES AND TECHNOLOGIES 💻
 <div>
 
