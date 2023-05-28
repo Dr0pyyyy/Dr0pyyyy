@@ -3,7 +3,7 @@
 ## 👨‍💻 ABOUT ME 👨‍💻
 - I'm a 18 years old self-taught programmer from Czech Republic
 - My main language is C#
-- I'm currently learning Javascript
+- I'm currently learning C# (ASP.NET Core)
 - Also I'm trying to use Github more as my portfolio
 - My dream is to become full-stack developer
 ## 📚 CURRENTLY LEARNING 📚
