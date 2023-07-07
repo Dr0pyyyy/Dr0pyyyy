@@ -8,7 +8,7 @@
 - My dream is to become full-stack developer
 ## 📚 CURRENTLY LEARNING 📚
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-## 💻LANGUAGES AND TECHNOLOGIES 💻
+## 💻LANGUAGES 💻
 <div>
 
   [![My Skills](https://skillicons.dev/icons?i=cs,html,css,sass,js,py,arduino)](https://skillicons.dev) 
