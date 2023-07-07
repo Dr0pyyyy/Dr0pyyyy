@@ -15,7 +15,7 @@
   
 </div>
 
-## 🛠 TOOLS 🛠
+## 🛠 TOOLS AND TECHNOLOGIES 🛠
 [![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,figma,ps)](https://skillicons.dev)
 ### ❗ WHERE YOU CAN REACH ME ❗
 [![My Skills](https://skillicons.dev/icons?i=discord)](discordapp.com/users/Dr0pyyy#9930)
