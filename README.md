@@ -7,16 +7,16 @@
 - Also I'm trying to use Github more as my portfolio
 - My dream is to become full-stack developer
 ## 📚 CURRENTLY LEARNING 📚
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,ts,angular)](https://skillicons.dev)
 ## 💻LANGUAGES 💻
 <div>
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,html,css,sass,js,py,arduino)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=cs,angular,ts,html,css,sass,js,py,arduino)](https://skillicons.dev) 
   
 </div>
 
 ## 🛠 TOOLS AND TECHNOLOGIES 🛠
-[![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,rabbitmq,docker,redis,mongodb,figma,ps)](https://skillicons.dev)
 ### ❗ WHERE YOU CAN REACH ME ❗
 [![My Skills](https://skillicons.dev/icons?i=discord)](discordapp.com/users/Dr0pyyy#9930)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/adam_koutnyy/)
