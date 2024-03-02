@@ -15,7 +15,7 @@
 </div>
 
 ## 🛠 TOOLS & OTHERS 🛠
-[![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,webstorm,idea,bootstrap,kubernetes,git,azure,rabbitmq,docker,redis,figma,ps,jenkins,elasticsearch,grafana,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,webstorm,idea,bootstrap,kubernetes,git,azure,rabbitmq,docker,redis,figma,ps,jenkins,elasticsearch,prometheus,grafana,postman)](https://skillicons.dev)
 ## ❗ WHERE YOU CAN REACH ME ❗
   
 [![My Skills](https://skillicons.dev/icons?i=discord)](discordapp.com/users/Dr0pyyy#9930)
