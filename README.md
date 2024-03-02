@@ -6,7 +6,7 @@
 - I'm currently trying to become full-stack developer
 - Also I'm trying to use Github more as my portfolio
 ## 📚 CURRENTLY LEARNING 📚
-[![My Skills](https://skillicons.dev/icons?i=angular,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,figma,bootstrap)](https://skillicons.dev)
 ## 💻LANGUAGES 💻
 <div>
 
@@ -15,7 +15,7 @@
 </div>
 
 ## 🛠 TOOLS AND TECHNOLOGIES 🛠
-[![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,webstorm,git,rabbitmq,docker,redis,figma,ps,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,webstorm,git,azure,rabbitmq,docker,redis,figma,ps,jenkins)](https://skillicons.dev)
 ### ❗ WHERE YOU CAN REACH ME ❗
 [![My Skills](https://skillicons.dev/icons?i=discord)](discordapp.com/users/Dr0pyyy#9930)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/adam_koutnyy/)
