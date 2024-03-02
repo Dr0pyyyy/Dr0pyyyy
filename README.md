@@ -7,14 +7,14 @@
 - Also I'm trying to use Github more as my portfolio
 ## 📚 CURRENTLY LEARNING 📚
 [![My Skills](https://skillicons.dev/icons?i=angular,figma,bootstrap)](https://skillicons.dev)
-## 💻LANGUAGES 💻
+## 💻LANGUAGES & FRAMEWORKS 💻
 <div>
 
   [![My Skills](https://skillicons.dev/icons?i=cs,angular,ts,html,css,sass,js,py,arduino)](https://skillicons.dev) 
   
 </div>
 
-## 🛠 TOOLS AND TECHNOLOGIES 🛠
+## 🛠 TOOLS 🛠
 [![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,webstorm,git,azure,rabbitmq,docker,redis,figma,ps,jenkins)](https://skillicons.dev)
 ### ❗ WHERE YOU CAN REACH ME ❗
 [![My Skills](https://skillicons.dev/icons?i=discord)](discordapp.com/users/Dr0pyyy#9930)
