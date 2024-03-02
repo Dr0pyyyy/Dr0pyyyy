@@ -14,9 +14,13 @@
   
 </div>
 
-## 🛠 TOOLS 🛠
+## 🛠 TOOLS & OTHERS 🛠
 [![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,webstorm,git,azure,rabbitmq,docker,redis,figma,ps,jenkins)](https://skillicons.dev)
 ### ❗ WHERE YOU CAN REACH ME ❗
+<div>
+  
 [![My Skills](https://skillicons.dev/icons?i=discord)](discordapp.com/users/Dr0pyyy#9930)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/adam_koutnyy/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/koutny_adam)
+
+</div>
