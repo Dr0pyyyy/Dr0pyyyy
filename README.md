@@ -2,9 +2,9 @@
 ![giphy](https://user-images.githubusercontent.com/103818716/228606700-d6719272-57ff-4387-89c6-9ebbd9bf44d9.gif)
 ## 👨‍💻 ABOUT ME 👨‍💻
 - I'm a 19 years old self-taught programmer from Czech Republic
-- My fav and main language is C#
+- Currently I'm working at Boldem 💙
+- Most of my work I do in .NET and Angular
 - I'm currently trying to become full-stack developer
-- Also I'm trying to use Github more as my portfolio
 ## 📚 CURRENTLY LEARNING 📚
 [![My Skills](https://skillicons.dev/icons?i=angular,figma,bootstrap)](https://skillicons.dev)
 ## 💻LANGUAGES & FRAMEWORKS 💻
