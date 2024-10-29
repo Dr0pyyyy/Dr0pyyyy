@@ -1,7 +1,7 @@
 # WELCOME TO MY PROFILE
 ![giphy](https://user-images.githubusercontent.com/103818716/228606700-d6719272-57ff-4387-89c6-9ebbd9bf44d9.gif)
 ## 👨‍💻 ABOUT ME 👨‍💻
-- I'm a 19 years old self-taught programmer from Czech Republic
+- I'm a 20 years old self-taught programmer from Czech Republic
 - Currently I'm working at Boldem 💙
 - Most of my work I do in .NET and Angular
 - I'm currently trying to become full-stack developer
