@@ -6,7 +6,7 @@
 - Most of my work I do in .NET and Angular
 - I'm currently trying to become full-stack developer
 ## 📚 CURRENTLY LEARNING 📚
-[![My Skills](https://skillicons.dev/icons?i=angular,figma,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,apple,postgres,raspberrypi)](https://skillicons.dev)
 ## 💻LANGUAGES & FRAMEWORKS 💻
 <div>
 
@@ -15,7 +15,7 @@
 </div>
 
 ## 🛠 TOOLS & OTHERS 🛠
-[![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,webstorm,idea,bootstrap,kubernetes,git,azure,rabbitmq,docker,redis,figma,ps,jenkins,elasticsearch,prometheus,grafana,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,rider,webstorm,idea,bootstrap,kubernetes,git,azure,rabbitmq,docker,redis,figma,ps,jenkins,elasticsearch,prometheus,grafana,postman,powershell)](https://skillicons.dev)
 ## ❗ WHERE YOU CAN REACH ME ❗
   
 [![My Skills](https://skillicons.dev/icons?i=discord)](discordapp.com/users/Dr0pyyy#9930)
