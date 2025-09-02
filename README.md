@@ -21,4 +21,4 @@
 [![My Skills](https://skillicons.dev/icons?i=discord)](discordapp.com/users/Dr0pyyy#9930)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/adam_koutnyy/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/koutny_adam)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/adam-koutny-8b6abb278)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adam-koutny-8b6abb278)
