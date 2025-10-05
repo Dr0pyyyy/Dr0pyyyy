@@ -4,6 +4,7 @@
 - I'm a 21 years old self-taught programmer from Czech Republic
 - Currently I'm working at Boldem 💙
 - Most of my work I do in .NET, Angular and Swift
+- I'm also learning about AI and vibe coding and learning how to leverage this skill in profesional development
 - I'm currently trying to become full-stack developer and release my first mobile app called ChopChop!
 ## 📚 CURRENTLY LEARNING 📚
 [![My Skills](https://skillicons.dev/icons?i=swift,apple,postgres,raspberrypi)](https://skillicons.dev)
