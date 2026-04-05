@@ -3,8 +3,10 @@
 ## 👨‍💻 ABOUT ME 👨‍💻
 - I'm a 21 years old freelance developer from Czech Republic 💻
 - Most of my work I do in .NET, Angular and Swift
-- I released my first mobile app called ChopChop!
-- Currently I'm learning Openclaw and how to get most of AI flow
+- I released my first mobile app called ChopChop! 📱
+- Currently I'm learning Openclaw and how to get most of AI flow 🤖
+- I'm also learning about networking and smart homes 🏠
+- Except work I'm certified open water driver and I love chess! ♟️
 ## 📚 CURRENTLY LEARNING 📚
 [![My Skills](https://skillicons.dev/icons?i=swift,apple,postgres,raspberrypi)](https://skillicons.dev)
 ## 💻LANGUAGES & FRAMEWORKS 💻
