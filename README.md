@@ -8,7 +8,7 @@
 - I'm also learning about networking and smart homes 🏠
 - Except work I'm certified open water driver and I love chess! ♟️
 ## 📚 CURRENTLY LEARNING 📚
-[![My Skills](https://skillicons.dev/icons?i=swift,apple,postgres,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,apple,raspberrypi)](https://skillicons.dev)
 ## 💻LANGUAGES & FRAMEWORKS 💻
 <div>
 
