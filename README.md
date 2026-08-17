@@ -1,7 +1,7 @@
 # WELCOME TO MY PROFILE
 ![giphy](https://user-images.githubusercontent.com/103818716/228606700-d6719272-57ff-4387-89c6-9ebbd9bf44d9.gif)
 ## 👨‍💻 ABOUT ME 👨‍💻
-- I'm a 21 years old freelance developer from Czech Republic 💻
+- I'm a 22 years old freelance developer from Czech Republic 💻
 - Most of my work I do in .NET, Angular and Swift
 - I released my first mobile app called ChopChop! 📱
 - Currently I'm learning Openclaw and how to get most of AI flow 🤖
